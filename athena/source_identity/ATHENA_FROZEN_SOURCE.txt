@@ -1,0 +1,30 @@
+﻿ATHENA FROZEN SOURCE IDENTITY
+=============================
+
+Official repository:
+https://github.com/CMU-SAFARI/Athena.git
+
+Branch:
+main
+
+Commit:
+1cf9be66d1e9449a040ea2dda944af36fdae3f28
+
+Short SHA:
+1cf9be66d1e9
+
+Commit date:
+2026-01-27T15:21:17+01:00
+
+Commit subject:
+Added Zenodo DOIs
+
+Local path:
+C:\Users\Prathamesh Redkar\OneDrive\Desktop\Embedded_AI_DSP_TraceSuite\external\Athena
+
+Initial worktree:
+CLEAN
+
+Research rule:
+This source tree is treated as an external frozen dependency.
+Do not directly edit Athena while defining the trace-generation ABI.
